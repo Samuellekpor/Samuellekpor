@@ -1,13 +1,13 @@
-### Hi there 👋!!! I am Sammuel
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Samuellekpor/" target="blank">
+Sammuel LEKPOR</a></h1>
+<h3 align="center">A passionate Software developer</h3>
 
-
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning Web Development at Microverse
 - 👯 I’m looking to collaborate on Front-end development
 - 🤔 I’m looking for help with React
 - 💬 Ask me about HTML, CSS, JS
 - 📫 How to reach me: https://github.com/Samuellekpor
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Firefox logo isn't a fox!!!
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
