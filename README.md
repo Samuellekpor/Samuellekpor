@@ -4,7 +4,7 @@ Sammuel LEKPOR</a></h1>
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Web Development at Microverse
-- 👯 I’m looking to collaborate on Front-end development
+- 👯 I’m looking for new opportunities
 - 🤔 I’m looking for help with React
 - 💬 Ask me about HTML, CSS, JS
 - 📫 How to reach me: https://github.com/Samuellekpor
