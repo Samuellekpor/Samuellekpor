@@ -2,7 +2,7 @@
 Sammuel LEKPOR</a></h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently working on an admin dashboard application with React.js
 - 🌱 I’m currently learning Web Development at Microverse
 - 👯 I’m looking for new opportunities
 - 🤔 I’m looking for help with React
